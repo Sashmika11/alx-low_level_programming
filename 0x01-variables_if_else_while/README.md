@@ -1,1 +1,1 @@
-This program will assign a random number to the variable
+postivite or negative assign of random number
