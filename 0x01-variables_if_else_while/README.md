@@ -1,1 +1,1 @@
-This program will assign a random number to the variable
+this program prints in lowercase 
