@@ -1,1 +1,1 @@
- this program prints in lower and upper case 
+this programe writes alphabets in lowercase follwed by a new line
