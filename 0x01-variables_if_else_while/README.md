@@ -1,1 +1,1 @@
-postivite or negative assign of random number
+positive or negative 
