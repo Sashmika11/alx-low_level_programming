@@ -1,1 +1,1 @@
- a program that prints all single digit numbers of base 10 starting from 0
+program that prints lower case alphabets in reverse
