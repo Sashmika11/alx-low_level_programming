@@ -1,1 +1,1 @@
-this program prints in lowercase 
+ this program prints in lower and upper case 
