@@ -1,1 +1,1 @@
-prnts two digits
+the success combination in business 
