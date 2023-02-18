@@ -1,1 +1,1 @@
-the success combination in business 
+software is eating the world 
