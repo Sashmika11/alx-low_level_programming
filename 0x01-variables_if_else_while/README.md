@@ -1,1 +1,1 @@
- prints numbers in 16 lowercase
+the program that prints all purpose combinationof singlr digits
