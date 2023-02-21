@@ -1,12 +1,14 @@
-#include "putchar.h"
+#include <stdio.h>
+#include "main.h"
+
 /**
- * main - Write a program that prints putchar, followed by a new*
- *
- *
- * Return: On success 0.
+ * main - Entry point.
+ * Description: write a program that prints "_putchar" followed by a new line.
+ * Return: Always 0 (Success.)
  */
 int main(void)
 {
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
