@@ -1,1 +1,1 @@
- program that prints putchar in a new line
+ this program prints putchars in new lins
