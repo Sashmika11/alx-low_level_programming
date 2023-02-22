@@ -1,1 +1,1 @@
- this program prints putchars followed by a new line 
+this program creates functions and nested loops
