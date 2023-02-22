@@ -1,1 +1,1 @@
- this program prints putchars in new lins
+function that prints the alphabet, in lowercase, followed by a new line.
